@@ -1,0 +1,5 @@
+E:\c# course\trainning\StoreProcedure\StoreProcedure\obj\Debug\StoreProcedure.csproj.AssemblyReference.cache
+E:\c# course\trainning\StoreProcedure\StoreProcedure\obj\Debug\StoreProcedure.Form1.resources
+E:\c# course\trainning\StoreProcedure\StoreProcedure\obj\Debug\StoreProcedure.Properties.Resources.resources
+E:\c# course\trainning\StoreProcedure\StoreProcedure\obj\Debug\StoreProcedure.csproj.GenerateResource.cache
+E:\c# course\trainning\StoreProcedure\StoreProcedure\obj\Debug\StoreProcedure.csproj.CoreCompileInputs.cache
